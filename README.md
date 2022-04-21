@@ -6,6 +6,6 @@
 
 https://www.mastermind.ac/courses/mi-primer-videojuego-desarrollo
 
-![img]https://camo.githubusercontent.com/8ee4025561c4cae…f2f692e696d6775722e636f6d2f6e6931743257712e6a7067)
+![img]	https://opengameart.org/sites/default/files/styles…/Screen-Shot-2017-05-30-at-6.24.14-PM-700x459.png)
 
 Assets usados: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
