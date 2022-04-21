@@ -6,6 +6,6 @@
 
 https://www.mastermind.ac/courses/mi-primer-videojuego-desarrollo
 
-<img src="	https://opengameart.org/sites/default/files/styles…/Screen-Shot-2017-05-30-at-6.24.14-PM-700x459.png" alt="My cool logo"/>
+![img](http://i.imgur.com/https://opengameart.org/sites/default/files/styles…/Screen-Shot-2017-05-30-at-6.24.14-PM-700x459.png)
 
 Assets usados: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
