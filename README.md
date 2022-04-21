@@ -8,6 +8,6 @@ https://www.mastermind.ac/courses/mi-primer-videojuego-desarrollo
 
 <img src="sunnyland.png" alt="My cool logo"/>
 
-![img](http://i.imgur.com/mastermind.png)
+<img src="mastermind.png" alt="My cool logo"/>
 
 Assets usados: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
