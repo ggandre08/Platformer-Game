@@ -5,7 +5,8 @@
 
 
 https://www.mastermind.ac/courses/mi-primer-videojuego-desarrollo
-![img](http://i.imgur.com/sunnyland.png)
+
+<img src="sunnyland.png" alt="My cool logo"/>
 
 ![img](http://i.imgur.com/mastermind.png)
 
