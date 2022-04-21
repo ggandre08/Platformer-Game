@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+# images 
+sunnyland.png
+mastermind.png
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
