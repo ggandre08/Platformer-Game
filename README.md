@@ -5,7 +5,8 @@
 
 
 https://www.mastermind.ac/courses/mi-primer-videojuego-desarrollo
+![img](http://i.imgur.com/sunnyland.png)
 
-![img](http://i.imgur.com/https://opengameart.org/sites/default/files/styles…/Screen-Shot-2017-05-30-at-6.24.14-PM-700x459.png)
+![img](http://i.imgur.com/mastermind.png)
 
 Assets usados: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
